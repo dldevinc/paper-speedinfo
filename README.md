@@ -1,6 +1,6 @@
 # paper-speedinfo
 
-Патч библиотеки []() для [paper-admin]()
+Патч библиотеки [django-speedinfo](https://github.com/catcombo/django-speedinfo) для [paper-admin](https://github.com/dldevinc/paper-admin)
 
 ## Requirements
 * Python (3.5, 3.6, 3.7)
