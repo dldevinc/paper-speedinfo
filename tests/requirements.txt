@@ -1,0 +1,2 @@
+ipython==7.7.0
+-e git://github.com/dldevinc/paper-admin@v0.0.5#egg=paper-admin
