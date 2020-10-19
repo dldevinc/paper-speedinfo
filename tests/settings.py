@@ -148,6 +148,7 @@ CACHES = {
     }
 }
 
+SPEEDINFO_STORAGE = "speedinfo.storage.cache.storage.CacheStorage"
 SPEEDINFO_EXCLUDE_URLS = [
     r'/admin/',
 ]

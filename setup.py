@@ -17,11 +17,11 @@ DESCRIPTION = 'A django app that provides suggestions while you type into the fi
 URL = 'https://github.com/dldevinc/paper-speedinfo'
 EMAIL = 'x896321475@gmail.com'
 AUTHOR = 'Mihail Mishakin'
-VERSION = '0.0.1'
+VERSION = '0.0.2'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
-    'django>2.1,<3.0',
+    'django',
     'django-speedinfo>1.4'
 ]
 
@@ -135,11 +135,12 @@ setup(
         'Operating System :: OS Independent',
         'Programming Language :: Python',
         'Programming Language :: Python :: 3',
-        'Programming Language :: Python :: 3.5',
         'Programming Language :: Python :: 3.6',
         'Programming Language :: Python :: 3.7',
+        'Programming Language :: Python :: 3.8',
         'Framework :: Django :: 2.1',
         'Framework :: Django :: 2.2',
+        'Framework :: Django :: 3.0',
         'Framework :: Django',
     ],
     cmdclass={
